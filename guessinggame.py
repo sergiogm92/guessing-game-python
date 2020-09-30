@@ -4,7 +4,7 @@ print("----------------------------")
 print("     M&M guessing game!")
 print("----------------------------")
 
-print('Guess the number of M&Ms and you get lunch on the house')
+print('Try to guess the number of M&M and get a  free luch and shoutout on the house)
 print()
 
 mm_count = random.randint(1, 100)
